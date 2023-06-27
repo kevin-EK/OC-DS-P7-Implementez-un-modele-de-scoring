@@ -1,4 +1,8 @@
 *.csv
 /data
 /ancien
+/.git
+/.ipynb_checkpoints
+/.spyproject
+/__pycache__
 .ipynb_checkpoints
