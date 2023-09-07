@@ -1,5 +1,4 @@
 *.csv
-/data/modeles sauvegardés
 /data/mlflow
 /data/source
 /ancien
