@@ -2,7 +2,6 @@
 /data/mlflow
 /data/source
 /ancien
-/dashboard_p7
 /data/mon_model_suvegarde_mlflow
 /.git
 /.ipynb_checkpoints
