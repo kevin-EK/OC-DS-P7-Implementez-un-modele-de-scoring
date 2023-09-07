@@ -1,8 +1,11 @@
 *.csv
-/data
+/data/modeles sauvegardés
+/data/mlflow
+/data/source
 /ancien
 /.git
 /.ipynb_checkpoints
 /.spyproject
 /__pycache__
 .ipynb_checkpoints
+*.gitignore
