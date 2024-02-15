@@ -19,22 +19,19 @@ Nous possédons 7 jeux de données, contentant des informations:
   En adoptant une approche qui ne prend pas en compte ce déséquilibre des classes, on risque fortement de biaiser le modèle. 
 
   ## Risque :
-  **FN** - mauvais client prédit bon client : donc crédit accordé et perte en capital
-  **FP** - bon client prédit mauvais : donc refus crédit et manque à gagner en marge
+  **FN** - mauvais client prédit bon client : donc crédit accordé et perte en capital.
+  **FP** - bon client prédit mauvais : donc refus crédit et manque à gagner en marge.
 
   ## Besoin:
-![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/986f2530-4f71-4e45-b7c7-43734ab3c9bc)
+![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/b4d8b6af-303c-4806-9449-f830060494f0)
+![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/4a17ff8e-a58c-4d69-aa2c-86c15648bdc6)
 
-![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/7f3c6824-a3e2-4462-9a66-f0e33d693e43)
-![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/e5397cba-8b79-454d-b964-ace7c4692e9c)
+  ## Gestion du déséquilibre des classes:
+  ![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/bc026cc2-2823-4269-ac97-9711c341f58a)
 
+  ## Meilleur modèle: LightGBMClassifier
 
-![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/3cd086d8-faa7-4425-9916-41d1e868b103)
-
-
-![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/044cd05c-f82b-4b97-9840-4121c7404a0d)
-
-![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/964c0d66-bd10-47c8-b84d-d59008b9bfb4)
+  ![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/09b4fec1-5a31-4728-a1e5-ab5c40c36200)
 
 # IV. Présentaion de l'api et du dashboard
 
