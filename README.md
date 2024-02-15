@@ -19,8 +19,8 @@ Nous possédons 7 jeux de données, contentant des informations:
   En adoptant une approche qui ne prend pas en compte ce déséquilibre des classes, on risque fortement de biaiser le modèle. 
 
   ## Risque :
-    **FN** - mauvais client prédit bon client : donc crédit accordé et perte en capital.</br>
-    **FP** - bon client prédit mauvais : donc refus crédit et manque à gagner en marge.</br>
+  - **FN** => mauvais client prédit bon client : donc crédit accordé et perte en capital.
+  - **FP** => bon client prédit mauvais : donc refus crédit et manque à gagner en marge.
 
   ## Besoin:
   ![image](https://github.com/kevin-EK/OC-DS-P7-Implementez-un-modele-de-scoring/assets/69479292/6ffd1933-6979-4e94-9fca-52e7f2b327a2)
